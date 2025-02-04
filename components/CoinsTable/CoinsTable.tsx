@@ -62,8 +62,8 @@ const ButtonText = styled.Text`
 `;
 
 const ScrollContainer = styled.View`
-  height: 500px;
-  width: 500px;
+  max-height: 400px;
+  width: auto;
 `;
 
 const LastHeaderText = styled(HeaderText)`
